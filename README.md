@@ -75,8 +75,7 @@ Li et al. (2019), *Antimicrobial Resistance and Infection Control* 8. https://do
 .
 ├── README.md
 ├── environment.yml
-├── notebooks/
-│   └── TFM_resistencia_linaje.ipynb   # full pipeline, phases 0-6
+├── Predicting bacterial lineage and antimicrobial resistance from whole-genome sequences.ipynb   # full pipeline, phases 0-6
 └── data/
     ├── metadata_clean.csv                          # accessions for the 1,500 genomes
     ├── metadata_target_resistencia_multilabel.csv  # resistance target (20 classes)

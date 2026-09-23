@@ -3,7 +3,7 @@
 A bioinformatics + machine learning pipeline that, given a bacterium's complete genome, predicts **(1) its species, (2) which drug classes it is resistant to, and (3) its evolutionary lineage (Sequence Type)**.
 
 MSc thesis project · MSc in Data Science, Big Data & Business Analytics · Complutense University of Madrid (2026)
-Author: Mariana Leal Cardín · [LinkedIn](www.linkedin.com/in/mariana-leal-cardín-759258112)
+Author: Mariana Leal Cardín · [www.linkedin.com/in/mariana-leal-cardín-759258112]
 
 > The notebook shows the full pipeline and its results end-to-end. Re-running it requires downloading the genomes yourself (see "How to reproduce it" below) — no shared data folder is provided.
 
